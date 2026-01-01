@@ -1,0 +1,148 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-banner",
+      "description": "Happy children in a school environment.",
+      "imageUrl": "https://i.ibb.co/8L1w6jGX/hu-Pvd-ZT18su-P.jpg",
+      "imageHint": "school children smiling"
+    },
+    {
+      "id": "chairman",
+      "description": "Portrait of the school chairman.",
+      "imageUrl": "https://i.ibb.co/cc6wJgfp/teacher-4.jpg",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "principal",
+      "description": "Portrait of the school headmistress.",
+      "imageUrl": "https://i.ibb.co/XfyqNH1c/teacher-1.jpg",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "teacher-1",
+      "description": "Teacher 1 portrait",
+      "imageUrl": "https://i.ibb.co/zWVD0f68/teacher-8.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-2",
+      "description": "Teacher 2 portrait",
+      "imageUrl": "https://i.ibb.co/JF0Jxnft/teacher-7.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-8",
+      "description": "Teacher 3 portrait",
+      "imageUrl": "https://i.ibb.co/4RGXyJQK/teacher-6.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-3",
+      "description": "Teacher 4 portrait",
+      "imageUrl": "https://i.ibb.co/9mySgFkQ/teacher-9.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-5",
+      "description": "Teacher 5 portrait",
+      "imageUrl": "https://i.ibb.co/sphvMDMR/teacher-5.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-6",
+      "description": "Teacher 6 portrait",
+      "imageUrl": "https://i.ibb.co/4nJLcYmC/teacher-2.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-7",
+      "description": "Teacher 7 portrait",
+      "imageUrl": "https://i.ibb.co/qYyWvXSY/teacher-3.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-4",
+      "description": "Teacher 4 portrait",
+      "imageUrl": "https://i.ibb.co/tMqs6nVP/680906560.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-9",
+      "description": "Teacher 9 portrait",
+      "imageUrl": "https://i.ibb.co/sd5vQLPt/T718486626.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-10",
+      "description": "Teacher 10 portrait",
+      "imageUrl": "https://i.ibb.co/bRyzzhXZ/T612727771.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-11",
+      "description": "Teacher 11 portrait",
+      "imageUrl": "https://i.ibb.co/hFtccZjb/718288050.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-12",
+      "description": "Teacher 12 portrait",
+      "imageUrl": "https://i.ibb.co/21FgJQgB/734908937.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "teacher-13",
+      "description": "Teacher 13 portrait",
+      "imageUrl": "https://i.ibb.co/bRPG6wgV/714492907.jpg",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Children in a classroom.",
+      "imageUrl": "https://i.ibb.co/4ZPxbTm9/gallary-4.png",
+      "imageHint": "children classroom"
+    },
+    {
+      "id": "gallery-2",
+      "description": "School library for kids.",
+      "imageUrl": "https://i.ibb.co/zHSHcJqQ/gallary-7.jpg",
+      "imageHint": "kids library"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Children in a science class.",
+      "imageUrl": "https://i.ibb.co/4nbn4C8h/gallary-6.jpg",
+      "imageHint": "children science"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Children collaborating in a group activity.",
+      "imageUrl": "https://i.ibb.co/QvcWKC37/gallary-5.jpg",
+      "imageHint": "students collaborating"
+    },
+    {
+      "id": "gallery-5",
+      "description": "School sports day.",
+      "imageUrl": "https://i.ibb.co/Fq8hjXKp/gallary-1.jpg",
+      "imageHint": "school sports"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Annual cultural event.",
+      "imageUrl": "https://i.ibb.co/qFgvt6yc/gallary-2.jpg",
+      "imageHint": "children performance"
+    },
+    {
+      "id": "gallery-8",
+      "description": "Children playing in the school playground.",
+      "imageUrl": "https://i.ibb.co/W47y1fhv/gallary-3.jpg",
+      "imageHint": "children playground"
+    },
+    {
+      "id": "gallery-7",
+      "description": "A student writing on a whiteboard.",
+      "imageUrl": "https://i.ibb.co/bX1xY6J/banner.jpg",
+      "imageHint": "student writing"
+    }
+  ]
+}
