@@ -25,11 +25,11 @@ export const teachers: Teacher[] = [
   },
   {
     id: 2,
-    name: 'Mr. Abdul Karim',
+    name: 'Mrs. Mushfiqa Karim',
     designation: 'Senior Teacher',
     department: 'Mathematics',
     imageId: 'teacher-2',
-    bio: 'Mr. Abdul Karim makes mathematics enjoyable and easy to understand for his students. He uses innovative teaching methods to build a strong foundation in numeracy and problem-solving skills from an early age.',
+    bio: 'Mrs. Mushfiqa Karim makes mathematics enjoyable and easy to understand for her students. She uses innovative teaching methods to build a strong foundation in numeracy and problem-solving skills from an early age.',
   },
   {
     id: 3,
