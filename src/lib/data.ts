@@ -125,28 +125,28 @@ export const notices: Notice[] = [
   {
     id: 1,
     title: 'Parent-Teacher Meeting Schedule',
-    date: '2024-07-15',
+    date: '2026-07-15',
     content:
       "A parent-teacher meeting for all classes will be held on Saturday, July 27th, 2024, to discuss the half-yearly academic progress of our students. The meeting will take place from 10:00 AM to 1:00 PM. All parents are requested to attend to collect their child's report card and discuss their progress with the respective class teachers. Your presence and cooperation are highly anticipated. We will cover topics such as student's classroom performance, social skills development, and strategies for improvement. This is a valuable opportunity for you to connect with our teachers and gain insight into your child's educational journey.",
   },
   {
     id: 2,
     title: 'Annual School Picnic Registration',
-    date: '2024-07-12',
+    date: '2026-07-12',
     content:
       'We are excited to announce the annual school picnic for students of all classes, to be held at a nearby park. Registrations are now open. Interested parents can register their children with the school office by July 25th. The picnic is a great opportunity for students to socialize and have fun outside the classroom. The day will be filled with games, a healthy lunch, and lots of fun activities. The fee for the picnic is BDT 500 per student, which covers transportation, food, and entry fees. More details about the venue and date will be shared soon.',
   },
   {
     id: 3,
     title: 'School Closure for Summer Vacation',
-    date: '2024-07-10',
+    date: '2026-07-10',
     content:
       'The school will remain closed for summer vacation from August 1st to August 15th. The school office will remain open on weekdays from 10:00 AM to 2:00 PM for any administrative work. We wish all our students a happy and restful vacation. We encourage students to engage in reading and other creative activities during the break. The school will reopen on August 16th with the regular schedule. Enjoy your holidays!',
   },
   {
     id: 4,
     title: 'Art Competition for All Classes',
-    date: '2024-07-08',
+    date: '2026-07-08',
     content:
       "An inter-class art competition will be held on July 25th in the school auditorium. The theme for the competition is 'My Beautiful Bangladesh'. All students from Playgroup to Class V are encouraged to participate. Please bring your own art supplies (drawing paper will be provided). The best artworks will be displayed on the school notice board and will receive prizes during the morning assembly. Let your child's creativity shine!",
   },
